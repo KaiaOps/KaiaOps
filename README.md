@@ -38,5 +38,11 @@ Data Strategy & Automation Specialist focused on optimizing complex processes th
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ---
+---
 
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/karinpadilla)
+### 🤝 Connect with me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/karinpadilla" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:kp.karinpadilla@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
